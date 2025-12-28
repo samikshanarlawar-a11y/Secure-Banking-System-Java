@@ -41,7 +41,4 @@ Once fraud is detected:
 - Exception Handling
 - Scanner Class (Console Input)
 
----
-
-## 📂 Project Structure
 
